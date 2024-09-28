@@ -1,7 +1,7 @@
 # SOLID To-Do App
 
-![Flutter](https://img.shields.io/badge/Flutter-v3.10.5-blue)
-![Dart](https://img.shields.io/badge/Dart-v2.19.6-blue)
+![Flutter](https://img.shields.io/badge/Flutter-v3.20.0-blue)
+![Dart](https://img.shields.io/badge/Dart-v3.5-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Table of Contents
