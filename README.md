@@ -4,6 +4,11 @@
 ![Dart](https://img.shields.io/badge/Dart-v3.5-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+## Application Preview
+
+<img src="https://github.com/user-attachments/assets/533ceab8-0747-4c01-9371-d14c703415d2" alt="Simulator Screenshot" width="400"/>
+
+
 ## Table of Contents
 
 - [English](#english)
